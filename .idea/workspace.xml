@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../RealEstate Dash App" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,7 +32,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="realestate" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="RealEstate Dash App" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,7 +44,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../RealEstate Dash App/app.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Bopa Clan\PycharmProjects\RealEstate Dash App\realestate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,6 +63,29 @@
       <option name="presentableId" value="Default" />
       <updated>1654323544958</updated>
     </task>
+    <task id="LOCAL-00001" summary="delete unnecessary .py file">
+      <created>1654941398824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654941398824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete unnecessary .py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete unnecessary .py file" />
   </component>
 </project>
